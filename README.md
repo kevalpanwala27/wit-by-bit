@@ -1,17 +1,31 @@
-# assignment
+# 🍔 Wit By Bit - Flutter Developer Assignment
 
-A new Flutter project.
+This is the completed assignment for the Flutter Developer position at **Wit By Bit**. The app replicates a food ordering experience based on the provided Figma design and prototype.
 
-## Getting Started
+## 📱 Features Implemented
 
-This project is a starting point for a Flutter application.
+- 🔍 Search functionality with recommendations
+- 🛒 Add/Remove items to/from cart
+- 📦 Dynamic cart summary when items are present
+- 🧾 Category-based horizontal scrolling (Recommended, Combos, Regular Burgers, etc.)
+- ✅ Clean and responsive UI based on the given Figma design
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# wit-by-bit
+- Flutter SDK (>= 3.x.x)
+- Android Studio or Visual Studio Code
+- Dart plugin
+- A connected device or emulator
+
+### Installation
+**Follow these steps:**
+
+```bash
+git clone https://github.com/kevalpanwala27/wit-by-bit.git
+cd wit-by-bit
+flutter pub get
+flutter run
+```
+
